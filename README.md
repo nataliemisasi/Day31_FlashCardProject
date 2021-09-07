@@ -1,4 +1,4 @@
-# Deutsche_Lernkarten
+# Deutsche Lernkarten
 
 Project based on Day 31 of 100 Days of Code
 
